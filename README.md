@@ -8,7 +8,7 @@ The system automatically triages vehicle images into three categories of analysi
 
  **Frontal Damage** 
 
-![Front Crush](front_crush.png) 
+![Front Crush](demo_front_crush.png) 
 
 *Detected: Front  
 
